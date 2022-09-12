@@ -126,7 +126,7 @@ MOV [SI+2],AL
 MOV [SI+3],AH
 INT 03
 ## Output  
-![output](micro4.png
+![output](micro4.png)
 
 ## Result :
  Thus, a program is executed on ALP for the fundamental arithmetic and logical operations.
